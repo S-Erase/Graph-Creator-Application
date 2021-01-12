@@ -28,6 +28,6 @@ These technologies were chosen so that the application could be theoretically cr
 
 ### Todo:
 * Undo/Redo actions
-* Copying selecting vertices
+* Copying selected vertices
 * Addition of L-p metrics
 * Load images to overlay onto the graph
