@@ -4,6 +4,7 @@
 * [Introduction](introduction)
 * [Technologies](technologies)
 * [Features](features)
+* [Controls](controls)
 
 ## Introduction
 The initial motivation for this project was to attempt to implement the Simulated Annealing algorithm to a
@@ -32,6 +33,24 @@ These technologies were chosen so that the application could be theoretically cr
 
 ### Todo:
 * Undo/Redo actions
-* Copying selected vertices
-* Addition of L-p metrics
+* Combining multiple graphs together
+* Copy/Pasting selections
+* Customized distance metric
 * Load images to overlay onto the graph
+
+## Controls
+On the left side of the window is a vertical toolbar whose buttons correspond to different control modes.
+
+### All modes
+* Using Ctrl+Left Mouse will drag the display.
+* Scrolling the mouse wheel will zoom the display in/out.
+### View Mode
+* Dragging the mouse on the display will drag the display across.
+### Creation Mode
+* Left-clicking the mouse will create a vertex.
+* Using Shift+Left Mouse will drag the selection vertices across the display.
+### Selection Mode
+* Ctrl+Left Mouse drags the screen.
+* Shift+Left Mouse creates a rectangle which will select the vertices inside when the mouse is released.
+### Edit Mode (WIP)
+This control mode will be used to customize distances between vertices.
