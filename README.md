@@ -12,6 +12,7 @@ in a space and the distance between them, what is the shortest path that crosses
 
 A collection of vertices in this context will be further referred to as a 'graph'
 
+This application is a work in progress.
 As of this update, the algorithm to compute the shortest path between points has not yet been implemented. 
 The focus as of now is to implement new features.
 
