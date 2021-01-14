@@ -1,4 +1,4 @@
-# Travelling-Salesman-Application
+# Graph-Creator-Application
 
 ## Table of Contents
 * [Introduction](introduction)
