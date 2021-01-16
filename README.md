@@ -14,7 +14,7 @@ in a space and the distance between them, what is the shortest path that crosses
 A collection of vertices in this context will be further referred to as a 'graph'
 
 The main purpose of this algorithm is to allow the user to easily create large collections of vertices in
-whichever arrangement they want.
+whichever arrangement they want and save them for later use.
 
 This application is a work in progress.
 As of this update, the algorithm to compute the shortest path between points has not yet been implemented. 
