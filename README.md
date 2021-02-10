@@ -30,9 +30,9 @@ These technologies were chosen so that the application could be theoretically cr
 * Loading and Saving graphs
 * Can select a number of vertices to move and delete
 * Can change the colour pallete used to display the graph.
+* Undo/Redo functionality
 
 ### Todo:
-* Undo/Redo actions
 * Combining multiple graphs together
 * Copy/Pasting selections
 * Customized distance metric
