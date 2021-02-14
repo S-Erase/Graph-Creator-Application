@@ -11,7 +11,8 @@ The initial motivation for this project was to attempt to implement the Simulate
 problem of my choice. The problem I chose was the Travelling Salesman Problem: given a collection of points 
 in a space and the distance between them, what is the shortest path that crosses all of them exactly once.
 
-A collection of vertices in this context will be further referred to as a 'graph'
+A collection of vertices in this context will be further referred to as a 'graph'. Because this application
+only deals with complete undirected weighted graphs, it is more accurate to call them 'Finite Metric Spaces'.
 
 The main purpose of this algorithm is to allow the user to easily create large collections of vertices in
 whichever arrangement they want and save them for later use.
